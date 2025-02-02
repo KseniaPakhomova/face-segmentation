@@ -1,5 +1,5 @@
-# face-segmentation
-face segmentation project
+# face-segmentation project
+
 A link for a dataset of many faces:
 
 https://drive.google.com/file/d/1OUA5iW0lOOcnlrCYMDImotpGI8sbysDA/view?usp=sharing
